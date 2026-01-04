@@ -9,7 +9,7 @@ An advanced, state-of-the-art **Agentic RAG** (Retrieval-Augmented Generation) s
 ### 1. Agent Workflow (LangGraph)
 The logic of the agent is structured as a state machine. The router dynamically decides the execution path based on the user's intent.
 
-![Agent Graph Structure](![WhatsApp Image 2026-01-04 at 5 00 41 PM](https://github.com/user-attachments/assets/6f6a908c-1ff7-4dc3-8690-8e1849e936ec))
+!(![WhatsApp Image 2026-01-04 at 5 00 41 PM](https://github.com/user-attachments/assets/6f6a908c-1ff7-4dc3-8690-8e1849e936ec))
 
 
 ### 2. User Interface (Streamlit)
@@ -23,7 +23,7 @@ The interface allows for seamless PDF uploading, real-time chat, and history man
 
 ---
 
-## 🏗️ System Architecture & Design Patterns
+##  System Architecture & Design Patterns
 
 The project implements a **Decision-Making Agent** workflow using the following components:
 
@@ -50,5 +50,6 @@ The workflow is managed as a directed graph where each node represents a specifi
 | `tools.py` | **Infrastructure**: PDF loading, text splitting (Recursive), and Vectorstore setup. |
 
 ---
+
 
 
