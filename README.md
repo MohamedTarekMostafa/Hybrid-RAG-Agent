@@ -1,4 +1,4 @@
-# 🧠 Agentic RAG: Intelligent PDF & Web Assistant
+![WhatsApp Image 2026-01-04 at 5 00 41 PM](https://github.com/user-attachments/assets/ccacf2b8-34bd-4a9a-b6bb-bc869dd51e8e)# 🧠 Agentic RAG: Intelligent PDF & Web Assistant
 
 An advanced, state-of-the-art **Agentic RAG** (Retrieval-Augmented Generation) system. Unlike traditional RAG pipelines, this system utilizes a **State Graph** architecture to dynamically route queries, manage long-term memory, and bridge the gap between static documents and the live internet.
 
@@ -9,15 +9,17 @@ An advanced, state-of-the-art **Agentic RAG** (Retrieval-Augmented Generation) s
 ### 1. Agent Workflow (LangGraph)
 The logic of the agent is structured as a state machine. The router dynamically decides the execution path based on the user's intent.
 
-![Agent Graph Structure](رابط_صورة_الجراف_هنا)
+![Agent Graph Structure](![WhatsApp Image 2026-01-04 at 5 00 41 PM](https://github.com/user-attachments/assets/6f6a908c-1ff7-4dc3-8690-8e1849e936ec))
 
 
 ### 2. User Interface (Streamlit)
 The interface allows for seamless PDF uploading, real-time chat, and history management.
 
-| PDF Initialization | Web Search Interaction | Memory & Context |
-| :---: | :---: | :---: |
-| ![UI 1](رابط_صورة_الـUI_الأولى) | ![UI 2](رابط_صورة_الـUI_الثانية) | ![UI 3](رابط_صورة_الـUI_الثالثة) |
+![WhatsApp Image 2026-01-04 at 6 40 34 PM](https://github.com/user-attachments/assets/e999b540-89d7-48f5-b6c3-02b1adf199b1)
+![WhatsApp Image 2026-01-04 at 11 02 03 PM](https://github.com/user-attachments/assets/e174da9d-6aec-40f5-8c0d-c0fafc53a6cb)
+![WhatsApp Image 2026-01-04 at 11 02 03 PM](https://github.com/user-attachments/assets/0c611d08-6919-4226-86e5-e4d35f326247)
+![WhatsApp Image 2026-01-04 at 11 02 37 PM](https://github.com/user-attachments/assets/68f5e4f6-d702-495b-9afa-4ad071343a60)
+
 
 ---
 
@@ -48,3 +50,4 @@ The workflow is managed as a directed graph where each node represents a specifi
 | `tools.py` | **Infrastructure**: PDF loading, text splitting (Recursive), and Vectorstore setup. |
 
 ---
+
