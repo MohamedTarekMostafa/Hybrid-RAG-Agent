@@ -1,4 +1,4 @@
-![WhatsApp Image 2026-01-04 at 5 00 41 PM](https://github.com/user-attachments/assets/ccacf2b8-34bd-4a9a-b6bb-bc869dd51e8e)# 🧠 Agentic RAG: Intelligent PDF & Web Assistant
+  Agentic RAG: Intelligent PDF & Web Assistant
 
 An advanced, state-of-the-art **Agentic RAG** (Retrieval-Augmented Generation) system. Unlike traditional RAG pipelines, this system utilizes a **State Graph** architecture to dynamically route queries, manage long-term memory, and bridge the gap between static documents and the live internet.
 
@@ -50,4 +50,5 @@ The workflow is managed as a directed graph where each node represents a specifi
 | `tools.py` | **Infrastructure**: PDF loading, text splitting (Recursive), and Vectorstore setup. |
 
 ---
+
 
