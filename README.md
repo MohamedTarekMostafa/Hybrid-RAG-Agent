@@ -27,7 +27,7 @@ The interface allows for seamless PDF uploading, real-time chat, and history man
 
 The project implements a **Decision-Making Agent** workflow using the following components:
 
-### 🚀 Dynamic AI Routing (The Brain)
+###  Dynamic AI Routing (The Brain)
 Instead of hard-coded rules, the agent uses **Llama 3.3-70B** to analyze user intent. It classifies queries into:
 * **Vectorstore Route**: For deep-dive technical questions found in the uploaded PDF.
 * **Web Search Route**: For real-time data, news, or general knowledge using **Tavily AI**.
@@ -50,6 +50,7 @@ The workflow is managed as a directed graph where each node represents a specifi
 | `tools.py` | **Infrastructure**: PDF loading, text splitting (Recursive), and Vectorstore setup. |
 
 ---
+
 
 
 
