@@ -63,11 +63,12 @@ In this section, you can see how the agent handles different types of queries, f
 ![WhatsApp Image 2026-01-08 at 2 57 09 PM (2)](https://github.com/user-attachments/assets/bb6eb10f-2e59-4db9-8715-4e2692589e5f)
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 1.  **Clone the repo** and install dependencies.
 2.  Set up your `.env` with **Groq**, **Tavily**, and **Google** API keys.
 3.  Run the app: `streamlit run app.py`
+
 
 
 
