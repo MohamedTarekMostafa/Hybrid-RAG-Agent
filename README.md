@@ -19,7 +19,7 @@ You might wonder, why not stick to the traditional pipeline? After building the 
 ##  Project Visuals & Workflow
 
 ### 1. Agent Logic (LangGraph)
-The "Brain" of this project isn't a straight line; it's a state machine. The router analyzes your intent and maps out the best path for the answer.
+The "Core Point" of this project isn't a straight line; it's a state machine. The router analyzes your intent and maps out the best path for the answer.
 
 ![Agent Workflow](https://github.com/user-attachments/assets/6f6a908c-1ff7-4dc3-8690-8e1849e936ec)
 
@@ -79,3 +79,4 @@ In this section, you can see how the agent handles different types of queries, f
 3.  Run the app: `streamlit run app.py`
 
 *Always looking to improve the logic! If you have thoughts on Agentic workflows, let's talk.*
+
