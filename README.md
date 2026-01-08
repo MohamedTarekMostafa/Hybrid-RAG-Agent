@@ -58,18 +58,9 @@ Using **LangGraph**, I’ve structured the logic into a directed graph. This ens
 ##  Interface & Experience
 
 In this section, you can see how the agent handles different types of queries, from technical PDF analysis to live web updates.
-
-*(Add your screenshots below to showcase the UI in action)*
-
-### 1. The Dashboard
-> [Insert Screenshot of the main UI here]
-
-### 2. Multi-Turn Conversation
-> [Insert Screenshot showing how it remembers previous questions here]
-
-### 3. Web Search Integration
-> [Insert Screenshot of a web-based answer here]
-
+![WhatsApp Image 2026-01-08 at 2 57 09 PM](https://github.com/user-attachments/assets/997d1adc-5639-43f2-b570-04a80ea1d9db)
+![WhatsApp Image 2026-01-08 at 2 57 09 PM](https://github.com/user-attachments/assets/7cc74ac8-0a3e-4e0c-97b5-3dcf7cee1596)
+![WhatsApp Image 2026-01-08 at 2 57 09 PM (2)](https://github.com/user-attachments/assets/bb6eb10f-2e59-4db9-8715-4e2692589e5f)
 ---
 
 ## 🚀 Getting Started
@@ -79,4 +70,5 @@ In this section, you can see how the agent handles different types of queries, f
 3.  Run the app: `streamlit run app.py`
 
 *Always looking to improve the logic! If you have thoughts on Agentic workflows, let's talk.*
+
 
