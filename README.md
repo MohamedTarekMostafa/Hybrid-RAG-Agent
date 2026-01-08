@@ -69,6 +69,6 @@ In this section, you can see how the agent handles different types of queries, f
 2.  Set up your `.env` with **Groq**, **Tavily**, and **Google** API keys.
 3.  Run the app: `streamlit run app.py`
 
-*Always looking to improve the logic! If you have thoughts on Agentic workflows, let's talk.*
+
 
 
