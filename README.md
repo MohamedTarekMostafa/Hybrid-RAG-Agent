@@ -49,6 +49,7 @@ Using **LangGraph**, I’ve structured the logic into a directed graph. This ens
 | File | What's inside? |
 | :--- | :--- |
 | `app.py` | The **Streamlit UI** and session management logic. |
+| `main.py` | The **Beackend ** execute the agent and send the response to the frontend (Streamlit UI). |
 | `agent.py` | The **Orchestration** layer where the Graph and edges live. |
 | `nodes.py` | The **Action** logic (Routing, Searching, Generating). |
 | `tools.py` | The **Infrastructure** (PDF loading and Vectorstore setup). |
@@ -68,6 +69,7 @@ In this section, you can see how the agent handles different types of queries, f
 1.  **Clone the repo** and install dependencies.
 2.  Set up your `.env` with **Groq**, **Tavily**, and **Google** API keys.
 3.  Run the app: `streamlit run app.py`
+
 
 
 
